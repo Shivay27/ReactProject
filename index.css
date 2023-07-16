@@ -1,0 +1,8 @@
+.card-wdt{
+    width:18rem;
+    border:1px solid #d7d7d7;
+}
+.card-container{
+    display:flex;
+    align-items: center;
+}
