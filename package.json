@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "shiva",
   "license": "ISC",
@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.0",
+    "jest": "^29.6.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-search-box": "^3.0.0"
   }
 }
